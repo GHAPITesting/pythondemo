@@ -27,5 +27,6 @@
     region: "us-east-1"
     trigger_condition: "ALWAYS"
     integration_hash: "5fa84a366f3053434c47ee52"
+    integration_hash: "5fa84a366f3053434c47ee52"
     
     
